@@ -1,1 +1,1 @@
-Js.log("Hello, World!")
+Js.log("setting up mankurt together, kids!")
